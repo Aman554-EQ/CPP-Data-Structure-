@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684514887 source:c:\users\h\downloads\nsu cse\cse 225 codes\quiz 2\stack array\stack-array\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1684517287 c:\users\h\downloads\nsu cse\cse 225 codes\quiz 2\stack array\stack-array\stacktype.h
+
+1684516976 source:c:\users\h\downloads\nsu cse\cse 225 codes\quiz 2\stack array\stack-array\main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1684514887 c:\users\h\downloads\nsu cse\cse 225 codes\quiz 2\stack array\stack-array\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
